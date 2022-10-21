@@ -1,0 +1,15 @@
+switch Syntax(variable){
+case value 1:
+     code A;
+     break;
+case value 2:
+     code B;
+     break;
+default:
+     code B;
+     break;
+}
+
+//limitation:
+    dataTypes: boolean, long, float & double
+    operators: logical and relational (<, <=, >, >=)

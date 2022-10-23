@@ -15,10 +15,11 @@ public class JavaMethods1 {
         m1();
         m2();
     }
-    private static void m1() {
+    public static void m1() {
         System.out.println("m1 method implementation");
     }
-    private static void m2() {
+    public static void m2() {
         System.out.println("m2 method implementation");
     }
+
 }
